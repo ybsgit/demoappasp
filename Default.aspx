@@ -8,7 +8,7 @@
 </head>
 <body>
     <form id="form1" runat="server">
-        <div> This is a sample application </div>
+        <div> This is a sample application version 1 </div>
     </form>
 </body>
 </html>
